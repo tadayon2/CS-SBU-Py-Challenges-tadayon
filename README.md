@@ -7,8 +7,7 @@ Template Repository of Python Challenges Course for Master in Computer Science D
 
 ## Steps:
 
-    1. Principles: https://pythonprinciples.com/challenges/
-
+1. Principles: https://pythonprinciples.com/challenges/
 
 # License
  [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
