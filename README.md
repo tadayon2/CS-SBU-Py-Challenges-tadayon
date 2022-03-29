@@ -3,11 +3,11 @@
 
 # Python Challenges Course 
 
-Repository of Python Challenges Course for Master in Computer Science Department of Shahid Beheshti University.
+Template Repository of Python Challenges Course for Master in Computer Science Department of Shahid Beheshti University.
 
 ## Steps:
 
- 1. Warm-up: https://pythonprinciples.com/challenges/
+    1. Principles: https://pythonprinciples.com/challenges/
 
 
 # License
